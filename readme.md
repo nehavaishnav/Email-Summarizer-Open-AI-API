@@ -84,4 +84,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-*Note: This README is based on the project structure and features inferred from the provided information. For detailed implementation and customization, refer to the source code in the repository.* 
